@@ -34,7 +34,5 @@ header div img {
     header div {
         margin: 0;
     }
-    header {
-        padding: 0px;
-    }
+    header { padding: 0px; }
 }
