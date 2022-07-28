@@ -1,5 +1,5 @@
 # Responsive-Image-Gallery-Using-Flexbox
-A simple demonstration how to use some flexbox properties 
+A simple demonstration how to use some flexbox properties. 
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/KKyEEYy
 
